@@ -1,0 +1,2 @@
+printr("Hello Rakuten!");
+return 1;
